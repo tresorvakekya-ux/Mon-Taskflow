@@ -1,0 +1,15 @@
+{
+  "taches": [
+    {
+      "id": "1",
+      "titre": "Apprendre JSON Server",
+      "statut": "en_cours"
+    },
+    {
+      "titre": "Nouvelle tâche POST",
+      "statut": "a_faire",
+      "id": "7OO9iJ8pbrE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
